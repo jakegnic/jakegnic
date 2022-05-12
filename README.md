@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voletro
-- 👀 I’m interested in Python, React, JavaScript, C++, and Unity.
-- 🌱 I’m currently learning React Native app development.
+- 👀 I’m interested in Python, Rust, JavaScript, and C++.
+- 🌱 I’m currently building average projects with (Tauri)[https://tauri.studio].
 - 💞️ I’m looking to collaborate on Python things.
 - 📫 How to reach me: voletro@gmail.com
 
