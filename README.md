@@ -1,7 +1,7 @@
-<img src="https://gpvc.arturio.dev/yangshun" alt="Profile views"/>
+<img src="https://gpvc.arturio.dev/voletro" alt="Profile views"/>
 
 - 👋 Hi, I’m @voletro
-- 👀 I’m interested in Python, Rust, JavaScript, Flutter, and C++.
+- 👀 I’m interested in Python, Rust, JavaScript, and C++.
 - 🌱 I’m currently building average projects with [Tauri](https://tauri.studio) and [React Native](https://reactnative.dev).
 - 💞️ I’m looking to collaborate on Python things.
 - 📫 How to reach me: voletro@gmail.com
